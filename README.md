@@ -10,3 +10,4 @@ Implemented algorithms:
 5) Quick sort
 6) Heap sort
 
+Project Link : https://pattnayaka21.github.io/Sortit.github.io/
